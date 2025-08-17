@@ -27,5 +27,4 @@ Scikit-learn
 MNIST – A dataset of 60,000 training and 10,000 testing grayscale images (28x28 pixels) of handwritten digits (0-9).
 
 The dataset is loaded directly using:
-
 from tensorflow.keras.datasets import mnist
